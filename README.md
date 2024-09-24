@@ -3,7 +3,7 @@
 ![formulario-cadastro](https://github.com/user-attachments/assets/5abac79a-8170-4f58-843c-6f69a9788b21)
 
 <h2>Sobre</h2>
-<p>Projeto de primeiro formulário de cadastro criado com auxílio de vídeo tutorial da Rafaela Ballerine.</p>
+<p>Projeto de primeiro formulário de cadastro criado com auxílio de vídeo tutorial da Rafaella Ballerine.</p>
 
 ## Tecnologias
 <div>
