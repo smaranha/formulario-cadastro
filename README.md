@@ -1,7 +1,7 @@
 <h1>Formulário JVTD</h1>
 
 <h2>Sobre</h2>
-<p>Projeto de primeiro formulário criado com auxílio de vídeo tutorial da Rafaela Ballerine.</p>
+<p>Projeto de primeiro formulário de cadastro criado com auxílio de vídeo tutorial da Rafaela Ballerine.</p>
 
 ## Tecnologias
 <div>
